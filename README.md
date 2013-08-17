@@ -3,7 +3,4 @@ SMS
 
 Indian official SMS Website is http://sms4you.org/
 
-
-[url=http://shayari.org.in/]shayari[/url]
-
-<a href="http://shayari.org.in">Shayari</a>
+From : <a href="http://sms4you.org">SMS</a> 
