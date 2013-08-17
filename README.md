@@ -1,4 +1,4 @@
 SMS
 ===
 
-Indian official SMS Website : sms4you.org
+Indian official SMS Website is http://sms4you.org/
